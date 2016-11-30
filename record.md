@@ -35,18 +35,14 @@ An update can be caused by changes to props or state. These methods are called w
 
 ### Unmounting
 
-
-## Useful Plugins
-
-[Keyed Fragments](https://facebook.github.io/react/docs/create-fragment.html)
-
-
-
 This method is called when a component is being removed from the DOM:
 
 - componentWillUnmount()
 
-
 ### Other
 
 - forceUpdate(callback)
+
+## Useful Plugins
+
+[Keyed Fragments](https://facebook.github.io/react/docs/create-fragment.html)
