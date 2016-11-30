@@ -1,4 +1,4 @@
-## The order of The Component Lifecycle methods
+## The order of The Component Lifecycle methods(about more details, see [answer by bailicangdu](http://react-china.org/t/react-redux/9072/13?u=ne-smalltown))
 
 - setState(nextState, callback)
 
