@@ -1,5 +1,7 @@
 ## The order of The Component Lifecycle methods(about more details, see [answer by bailicangdu](http://react-china.org/t/react-redux/9072/13?u=ne-smalltown))
 
+![](http://mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevhInLnhZibzCk7gnIRP70DHBOgNZKBReh9XPwfiamSeciaiamnicYaNHmf3vo62kTKGTk7nT6ypasxu4ZQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+
 - setState(nextState, callback)
 
 - nextState may be a `function (prevState, props) {}`
