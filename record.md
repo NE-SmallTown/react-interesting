@@ -2,6 +2,10 @@
 
 ![](http://mmbiz.qpic.cn/mmbiz_png/meG6Vo0MevhInLnhZibzCk7gnIRP70DHBOgNZKBReh9XPwfiamSeciaiamnicYaNHmf3vo62kTKGTk7nT6ypasxu4ZQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
 
+or more details is:
+
+![](http://ogitl0zvo.bkt.clouddn.com/djfijwqeq.jpg)
+
 - setState(nextState, callback)
 
 - nextState may be a `function (prevState, props) {}`
@@ -104,7 +108,36 @@ By contrast, here are a few related (but different!) technical distinctions:
 
 > In my experience, presentational components tend to be stateless pure functions, and containers tend to be stateful pure classes. However this is not a rule but an observation, and I’ve seen the exact opposite cases that made sense in specific circumstances.
 
+![](http://ogitl0zvo.bkt.clouddn.com/6f6012ac1df414ab.png)
+
+> Most of the components we'll write will be presentational, but we'll need to generate a few container components to connect them to the Redux store.
+
+### React Redux
+
+> Technically you could write the container components by hand using store.subscribe(). We don't advise you to do this because React Redux makes many performance optimizations that are hard to do by hand. For this reason, rather than write container components, we will generate them using the connect() function provided by React Redux.
+
+**Technically, a container component is just a React component that uses store.subscribe() to read a part of the Redux state tree and supply props to a presentational component it renders**
+
+> You could write a container component by hand, but we suggest instead generating container components with the React Redux library's connect() function, which provides many useful optimizations to prevent unnecessary re-renders
+
+> The option we recommend is to use a special React Redux component called `<Provider>`(i.e. by [context of React](https://facebook.github.io/react/docs/context.html)) to magically make the store available to all container components in the application without passing it explicitly. You only need to use it once when you render the root component
+
+> react-redux提供了connect和Provider两个好基友，它们一个将组件与redux关联起来，一个将store传给组件。组件通过dispatch发出action，store根据action的type属性调用对应的reducer并传入state和这个action，reducer对state进行处理并返回一个新的state放入store，connect监听到store发生变化，调用setState更新组件，此时组件的props也就跟着变化
+
+**Redux Flow**
+
+![](http://ogitl0zvo.bkt.clouddn.com/2e3279b62b38f95ebcc3df9b4edf31cbed95eb9d.jpg)
+
+**React Redux Flow**
+
+![](http://ogitl0zvo.bkt.clouddn.com/2016-12-03_22-12-59.jpg)
+
 ## Links
 
-[smart-and-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.d3cn7lsti)
-[You Might Not Need Rudux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.3w59x6s1e)
+[smart-and-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+
+[You Might Not Need Rudux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
+
+[How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.vdv8fr3fd)
+
+[分享一个 react + redux 完整的项目，同时写一下个人感悟](http://react-china.org/t/react-redux/9072/22)
