@@ -4,7 +4,7 @@
 
 or more details is:
 
-![](http://ogitl0zvo.bkt.clouddn.com/djfijwqeq.jpg)
+![](https://github.com/bailicangdu/pxq/raw/master/src/images/react-lifecycle.png)
 
 - setState(nextState, callback)
 
@@ -132,6 +132,41 @@ By contrast, here are a few related (but different!) technical distinctions:
 
 ![](http://ogitl0zvo.bkt.clouddn.com/2016-12-03_22-12-59.jpg)
 
+
+#### Reducer
+
+`(state, action) => state` looks like `(acc, val) => acc`, and `reduce((acc, val) => acc)`, this is why it named Reducer.
+
+**Reducer + Flux = Redux**
+
+#### Redux middleware
+
+It provides a third-party extension point between dispatching an action, and the moment it reaches the reducer. 
+
+Redux middleware act like a linked list. Each middleware function can either call next(action) to pass an action along to the next middleware in line, call dispatch(action) to restart the processing at the beginning of the list, or do nothing at all to stop the action from being processed further.
+
+#### thunk function
+
+For example, redux-thunk lets the action creators invert control by dispatching functions. They would receive dispatch as an argument and may call it asynchronously. Such functions are called thunks. 
+
+#### Redux's store
+
+It may help to think of parts of your store as a database, with individual “tables” per item type. Libraries such as normalizr and redux-orm can provide help and abstractions in managing normalized data.
+
+#### React Redux's connect
+
+If you're somewhere deep in the component hierarchy, it is cumbersome to pass the store down manually. This is why react-redux lets you use a connect higher-order component that will, apart from subscribing you to a Redux store, inject dispatch into your component's props.
+
+#### selector
+
+The mapStateToProps function takes a single argument of the entire Redux store’s state and returns an object to be passed as props. It is often called a **selector**. Use [reselect](https://github.com/reactjs/reselect) to efficiently compose selectors and [compute derived data](http://redux.js.org/docs/recipes/ComputingDerivedData.html).
+
+### FAQ
+
+**[Why is my component re-rendering too often?](http://redux.js.org/docs/faq/ReactRedux.html#why-is-my-component-re-rendering-too-often)**
+
+
+
 ## Links
 
 [smart-and-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
@@ -141,3 +176,5 @@ By contrast, here are a few related (but different!) technical distinctions:
 [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.vdv8fr3fd)
 
 [分享一个 react + redux 完整的项目，同时写一下个人感悟](http://react-china.org/t/react-redux/9072/22)
+
+[Redux FAQ](http://redux.js.org/docs/faq/ReactRedux.html)
