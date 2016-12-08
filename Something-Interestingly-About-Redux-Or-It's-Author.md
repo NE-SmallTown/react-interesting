@@ -21,14 +21,36 @@
 
 ## 7. [How do you plan your learning time? ](https://github.com/gaearon/ama/issues/58)
 
+![](http://www.blog.ne-smalltown.com/commonUpload/20161208142727.jpg)
+
 ## 8. [What is your world view like ?](https://github.com/gaearon/ama/issues/57)
 
-![](http://www.blog.ne-smalltown.com/commonUpload/)
+![](http://www.blog.ne-smalltown.com/commonUpload/20161208142843.jpg)
 
-## []()
+## 9. [What are you thoughts of the elm programming language?](https://github.com/gaearon/ama/issues/54)
 
-![](http://www.blog.ne-smalltown.com/commonUpload/)
+![](http://www.blog.ne-smalltown.com/commonUpload/20161208143809.jpg)
 
-## []()
+## 10. [What are your thoughts on using stateless function components + redux as the way to maintain UI state?](https://github.com/gaearon/ama/issues/55)
 
-![](http://www.blog.ne-smalltown.com/commonUpload/)
+![](http://www.blog.ne-smalltown.com/commonUpload/20161208144241.jpg)
+
+## 11. [Do you think getting a computer science degree is necessary? ](https://github.com/gaearon/ama/issues/53)
+
+## 12. [What are you thoughts about "war" - css vs inline styles?](https://github.com/gaearon/ama/issues/50)
+
+## 13. [Did you go to college?](https://github.com/gaearon/ama/issues/47)
+
+## 14. [What is the biggest challenge you face right now?](https://github.com/gaearon/ama/issues/45)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/20161208150437.jpg)
+
+## 15. [What music do you listen to while coding?](https://github.com/gaearon/ama/issues/40)
+
+## 16. [Google Award / Location / English](https://github.com/gaearon/ama/issues/33)
+
+## 17. [Which recently developed technology do you think will have the most impact 5-10 years from now and why? ](https://github.com/gaearon/ama/issues/31)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/20161208151922.jpg)
+
+## 18. [What are your least favorite parts of Redux and React? ](https://github.com/gaearon/ama/issues/29)
