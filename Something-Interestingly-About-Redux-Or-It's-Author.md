@@ -1,6 +1,6 @@
 # Introduction
 
-There is something you might be interested about [Dan Abramov](https://github.com/gaearon)(Co-authored Redux),I sort out them from his github, twitter, medium or somewhere else.
+There is something you might be interested about [Dan Abramov](https://github.com/gaearon)(Co-authored Redux),I sort out them from his github, twitter, medium, stackoverflow or somewhere else.
 
 If this is helpful for you,you can watch this repository and I will update constantly.
 
