@@ -4,7 +4,7 @@ There is something you might be interested about [Dan Abramov](https://github.co
 
 If this is helpful for you,you can watch this repository and I will update constantly.
 
-# Questions on Github
+# Questions on github
 
 ## 1. [What do you want to be in your life?](https://github.com/gaearon/ama/issues/88)
 
@@ -88,3 +88,7 @@ If this is helpful for you,you can watch this repository and I will update const
 ## 25. [What does your dev environment look like? ](https://github.com/gaearon/ama/issues/1)
 
 ## 26. [when did you start programming? ](https://github.com/gaearon/ama/issues/2)
+
+# Articles on medium
+
+## [Asking Good Questions](https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c)
