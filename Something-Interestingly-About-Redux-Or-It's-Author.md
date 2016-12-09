@@ -91,4 +91,4 @@ If this is helpful for you,you can watch this repository and I will update const
 
 # Articles on medium
 
-## [Asking Good Questions](https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c)
+## 1. [Asking Good Questions](https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c)
