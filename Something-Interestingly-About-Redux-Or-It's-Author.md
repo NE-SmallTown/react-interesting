@@ -1,3 +1,11 @@
+# Introduction
+
+There is something you might be interested about [Dan Abramov](https://github.com/gaearon)(Co-authored Redux),I sort out them from his github, twitter, medium or somewhere else.
+
+If this is helpful for you,you can watch this repository and I will update constantly.
+
+# Questions on Github
+
 ## 1. [What do you want to be in your life?](https://github.com/gaearon/ama/issues/88)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/20161207221956.jpg)
@@ -54,3 +62,29 @@
 ![](http://www.blog.ne-smalltown.com/commonUpload/20161208151922.jpg)
 
 ## 18. [What are your least favorite parts of Redux and React? ](https://github.com/gaearon/ama/issues/29)
+
+## 19. [What do you do besides programming? What are some of your biggest non-technical inspirations and motivators?](https://github.com/gaearon/ama/issues/28)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/20161209152322.JPG)
+
+## 20. [How did you become so good?](https://github.com/gaearon/ama/issues/27)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/20161209152812.JPG)
+
+## 21. [Who are some of your programming heroes (if any)?](https://github.com/gaearon/ama/issues/14)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/20161209153651.JPG)
+
+## 22. [What does a normal work day look like for you?](https://github.com/gaearon/ama/issues/7)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/20161209154143.JPG)
+
+## 23. [How do you think the web will look like in 10 years?](https://github.com/gaearon/ama/issues/6)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/20161209154332.JPG)
+
+## 24. [What's your favorite gif?](https://github.com/gaearon/ama/issues/3)
+
+## 25. [What does your dev environment look like? ](https://github.com/gaearon/ama/issues/1)
+
+## 26. [when did you start programming? ](https://github.com/gaearon/ama/issues/2)
