@@ -149,3 +149,5 @@ There are too many contents,so I will group them.
 ## 1. [Why is React's filesize so big given its small API?](http://stackoverflow.com/questions/19807946/why-is-reacts-filesize-so-big-given-its-small-api/19808686#19808686)
 
 ## 2. [Why do we need middleware for async flow in Redux?](http://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux/34599594)
+
+## 3. [Why use Redux over Facebook Flux?](http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux/32920459)
