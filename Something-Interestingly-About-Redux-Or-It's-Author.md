@@ -1,6 +1,6 @@
 # Introduction
 
-There is something you might be interested about [Dan Abramov](https://github.com/gaearon)(Co-authored Redux),I sort out them from his github, twitter, medium, stackoverflow or somewhere else.
+There is something you might be interested about [Dan Abramov](https://github.com/gaearon)(Co-authored Redux) and redux itself,I sort out them from his github, twitter, medium, stackoverflow or somewhere else.
 
 If this is helpful for you,you can watch this repository and I will update constantly.
 
@@ -89,6 +89,63 @@ If this is helpful for you,you can watch this repository and I will update const
 
 ## 26. [when did you start programming? ](https://github.com/gaearon/ama/issues/2)
 
+
 # Articles on medium
 
 ## 1. [Asking Good Questions](https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c)
+
+
+# Something on twitter
+
+There are too many contents,so I will group them.
+
+**2016-01**
+
+## 1. [Reducers and action creators aren't a one-to-one mapping](https://github.com/reduxible/reduxible/issues/8)
+
+## 2. [Guesstimate is a great example of a complex open source React app built with Redux!](https://github.com/getguesstimate/guesstimate-app)
+
+## 3. [About React-Router](https://twitter.com/dan_abramov/status/683006942260887552)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-10_12-05-37.jpg)
+
+## 4. [React-independent part of React Router exists; it's called history.](https://github.com/mjackson/history)
+
+## 5. [Which front-end framework should we learn in early 2016?](https://twitter.com/dan_abramov/status/683027462478000128)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/20161210121333.jpg)
+
+## 6. [Great article by @davidvlsea. If Redux/Flux/Router are confusing, don’t use them!](https://medium.com/@davidvlsea/react-without-undue-complications-f3490403fdc0)
+
+## 7. [Would you recommend testing the store itself or should testing be done at the reducer level?](https://twitter.com/dan_abramov/status/683698763068669952)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/20161210122509.jpg)
+
+## 8. [if a Counter can only go up to 10, where does that logic exist? In the store? In the action creator? In the Controller?](https://twitter.com/dan_abramov/status/683700076124831744)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-10_12-28-25.jpg)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/20161210123309.jpg)
+
+## 9. [Angular2 and React](https://twitter.com/dan_abramov/status/683770287863775232)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/![](http://www.blog.ne-smalltown.com/commonUpload/)
+
+## 10. [In 2016](https://twitter.com/dan_abramov/status/683771840100196352)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-10_14-27-11.jpg)
+
+## 11. [Common Redux misconception](https://twitter.com/dan_abramov/status/684074628227182592)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-10_14-34-49.jpg)
+
+## 12. [About FP](https://twitter.com/dan_abramov/status/684078680805515264)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-10_14-38-45.jpg)
+
+
+# Questions on stackoverflow
+
+## 1. [Why is React's filesize so big given its small API?](http://stackoverflow.com/questions/19807946/why-is-reacts-filesize-so-big-given-its-small-api/19808686#19808686)
+
+## 2. [Why do we need middleware for async flow in Redux?](http://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux/34599594)
