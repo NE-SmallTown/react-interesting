@@ -111,7 +111,7 @@ There are too many contents,so I will group them.
 
 ## 3. [About React-Router](https://twitter.com/dan_abramov/status/683006942260887552)
 
-![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-10_12-05-37.jpg)
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_12-04-26.jpg)
 
 ## 4. [React-independent part of React Router exists; it's called history.](https://github.com/mjackson/history)
 
@@ -127,7 +127,7 @@ There are too many contents,so I will group them.
 
 ## 8. [if a Counter can only go up to 10, where does that logic exist? In the store? In the action creator? In the Controller?](https://twitter.com/dan_abramov/status/683700076124831744)
 
-![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-10_12-28-25.jpg)
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_12-05-54.jpg)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/20161210123309.jpg)
 
