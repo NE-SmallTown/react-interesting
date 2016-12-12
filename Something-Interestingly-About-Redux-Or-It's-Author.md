@@ -94,12 +94,16 @@ If this is helpful for you,you can watch this repository and I will update const
 
 ## 1. [Asking Good Questions](https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c)
 
+## 2. [Functional Programming is taking over UIs with Pure Views.](https://medium.com/@puppybits/the-revolution-of-pure-views-aed339db7da4)
+
+## 3. [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f)
+
 
 # Something on twitter
 
 There are too many contents,so I will group them.
 
-**2016-01**
+**2016-01-01 ~ 2016-01-10**
 
 ## 1. [Reducers and action creators aren't a one-to-one mapping](https://github.com/reduxible/reduxible/issues/8)
 
@@ -143,6 +147,50 @@ There are too many contents,so I will group them.
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-10_14-38-45.jpg)
 
+**2016-01-11 ~ 2016-01-20**
+
+## 13. [we'll be hearing a lot more of this in 2016](https://twitter.com/dan_abramov/status/686683642735665152)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_11-13-55.jpg)
+
+## 14. [How we Redux](https://medium.com/front-end-developers/how-we-redux-part-1-introduction-18a24c3b7efe)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_11-25-05.jpg)
+
+## 15. [Are there any resources on problem solving in JavaScript?](https://twitter.com/dan_abramov/status/687399403531927555)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_11-30-29.jpg)
+
+## 16. [redux enhancer](https://twitter.com/dan_abramov/status/687471344452276225)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_11-32-36.jpg)
+
+## 17. [About github](https://twitter.com/dan_abramov/status/687807475144261634)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_11-35-28.jpg)
+
+## 18. [About diff perf](https://twitter.com/dan_abramov/status/688148974709035008)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_11-37-37.jpg)
+
+## 19. [About OOP](https://twitter.com/yogthos/status/688432479275859968)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_11-41-34.jpg)
+
+## 20. [About react-redux](https://twitter.com/dan_abramov/status/689122904479526912)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_11-45-48.jpg)
+
+[the link](https://gist.github.com/larrydahooster/ab254edf40e2ab735559#gistcomment-1672889)
+
+## 21. [About react-router](https://twitter.com/dan_abramov/status/689445694076092418)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_11-48-55.jpg)
+
+## 22. [About connect](https://twitter.com/dan_abramov/status/689584383615983616)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_11-56-55.jpg)
+
 
 # Questions on stackoverflow
 
@@ -151,3 +199,7 @@ There are too many contents,so I will group them.
 ## 2. [Why do we need middleware for async flow in Redux?](http://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux/34599594)
 
 ## 3. [Why use Redux over Facebook Flux?](http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux/32920459)
+
+## 4. [How to put methods onto the objects in Redux state?](http://stackoverflow.com/questions/32352982/how-to-put-methods-onto-the-objects-in-redux-state/32922984)
+
+## 5. [what-are-good-abstractions-for-complex-animations](http://stackoverflow.com/questions/10853211/what-are-good-abstractions-for-complex-animations)
