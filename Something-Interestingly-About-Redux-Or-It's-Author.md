@@ -10,7 +10,6 @@ If this is helpful for you,you can watch this repository and I will update const
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/20161207221956.jpg)
 
-
 ## 2. [How long do you sleep in average since you're involved in IT?](https://github.com/gaearon/ama/issues/97)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/20161207223049.jpg)
@@ -89,6 +88,7 @@ If this is helpful for you,you can watch this repository and I will update const
 
 ## 26. [when did you start programming? ](https://github.com/gaearon/ama/issues/2)
 
+## 27. [About bindActionCreators' different used ways](https://gist.github.com/larrydahooster/ab254edf40e2ab735559)
 
 # Articles on medium
 
