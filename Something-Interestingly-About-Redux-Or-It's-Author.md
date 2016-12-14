@@ -249,3 +249,11 @@ There are too many contents,so I will group them.
 ## 5. [what-are-good-abstractions-for-complex-animations](http://stackoverflow.com/questions/10853211/what-are-good-abstractions-for-complex-animations)
 
 ## 6. [How to dispatch a Redux action with a timeout?](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559)
+
+# Other good collections
+
+## 1. [react-redux-links](https://github.com/markerikson/react-redux-links)
+
+## 2. [redux-side-effects](https://github.com/markerikson/react-redux-links/blob/master/redux-side-effects.md)
+
+## 3. [project-structure](https://github.com/markerikson/react-redux-links/blob/master/project-structure.md)
