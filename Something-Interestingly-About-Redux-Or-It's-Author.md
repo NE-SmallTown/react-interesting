@@ -229,7 +229,7 @@ There are too many contents,so I will group them.
 
 ## 32. [Misconception about switch statements in redux](https://twitter.com/dan_abramov/status/691706517679112192)
 
-![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_11-14-53.jpg)
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_12-04-46.jpg)
 
 ## 33. [How to implement a tree view efficiently in React and Redux](https://twitter.com/dan_abramov/status/691680866817478656)
 
@@ -247,3 +247,5 @@ There are too many contents,so I will group them.
 ## 4. [How to put methods onto the objects in Redux state?](http://stackoverflow.com/questions/32352982/how-to-put-methods-onto-the-objects-in-redux-state/32922984)
 
 ## 5. [what-are-good-abstractions-for-complex-animations](http://stackoverflow.com/questions/10853211/what-are-good-abstractions-for-complex-animations)
+
+## 6. [How to dispatch a Redux action with a timeout?](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559)
