@@ -191,6 +191,50 @@ There are too many contents,so I will group them.
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-12_11-56-55.jpg)
 
+**2016-01-21 ~ 2016-01-31**
+
+## 23. [What do you think about React](https://twitter.com/dan_abramov/status/689981724437118976)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_9-48-55.jpg)
+
+## 24. [About react unit test](https://twitter.com/dan_abramov/status/690007743818813441)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_10-05-55.jpg)
+
+## 25. [Misconception about react-redux](https://twitter.com/dan_abramov/status/690024767475294208)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_10-12-11.jpg)
+
+## 26. [About semicolons at the end of the line](https://twitter.com/dan_abramov/status/690517149132152832)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_10-21-21.jpg)
+
+## 27. [Improve generator performance](https://github.com/babel/babel/pull/3283/files)
+
+## 28. [How to choose your tool correctly](https://twitter.com/dan_abramov/status/690586104983097344)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_10-43-50.jpg)
+
+## 29. [Misconception about calling ReactDOM.render()](https://twitter.com/dan_abramov/status/691306318204923905)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_10-57-36.jpg)
+
+## 30. [Dispatching reducer?](https://twitter.com/dan_abramov/status/691617281219129344)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_11-06-06.jpg)
+
+## 31. [Misconception about action creators](https://twitter.com/dan_abramov/status/691622746296602624)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_11-10-30.jpg)
+
+## 32. [Misconception about switch statements in redux](https://twitter.com/dan_abramov/status/691706517679112192)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_11-14-53.jpg)
+
+## 33. [How to implement a tree view efficiently in React and Redux](https://twitter.com/dan_abramov/status/691680866817478656)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_11-19-14.jpg)
+
 
 # Questions on stackoverflow
 
