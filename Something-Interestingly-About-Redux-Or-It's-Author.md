@@ -133,7 +133,7 @@ There are too many contents,so I will group them.
 
 ## 9. [Angular2 and React](https://twitter.com/dan_abramov/status/683770287863775232)
 
-![](http://www.blog.ne-smalltown.com/commonUpload/![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_15-40-36.jpg)
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_15-40-36.jpg)
 
 ## 10. [In 2016](https://twitter.com/dan_abramov/status/683771840100196352)
 
