@@ -213,7 +213,7 @@ There are too many contents,so I will group them.
 
 ## 28. [How to choose your tool correctly](https://twitter.com/dan_abramov/status/690586104983097344)
 
-![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_10-43-50.jpg)
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-15_15-00-26.jpg)
 
 ## 29. [Misconception about calling ReactDOM.render()](https://twitter.com/dan_abramov/status/691306318204923905)
 
@@ -221,11 +221,11 @@ There are too many contents,so I will group them.
 
 ## 30. [Dispatching reducer?](https://twitter.com/dan_abramov/status/691617281219129344)
 
-![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_11-06-06.jpg)
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-15_15-02-02.jpg)
 
 ## 31. [Misconception about action creators](https://twitter.com/dan_abramov/status/691622746296602624)
 
-![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-14_11-10-30.jpg)
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-15_15-02-53.jpg)
 
 ## 32. [Misconception about switch statements in redux](https://twitter.com/dan_abramov/status/691706517679112192)
 
