@@ -240,6 +240,12 @@ There are too many contents,so I will group them.
 ![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-16_10-53-55.jpg)
 
 
+**2016-02-01 ~ 2016-02-10**
+
+## 1.[Misconception in connect()] (https://twitter.com/dan_abramov/status/695419602344411136)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-17_11-34-21.jpg)
+
 # Questions on stackoverflow
 
 ## 1. [Why is React's filesize so big given its small API?](http://stackoverflow.com/questions/19807946/why-is-reacts-filesize-so-big-given-its-small-api/19808686#19808686)
