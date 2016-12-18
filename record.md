@@ -161,11 +161,11 @@ If you're somewhere deep in the component hierarchy, it is cumbersome to pass th
 
 The mapStateToProps function takes a single argument of the entire Redux store’s state and returns an object to be passed as props. It is often called a **selector**. Use [reselect](https://github.com/reactjs/reselect) to efficiently compose selectors and [compute derived data](http://redux.js.org/docs/recipes/ComputingDerivedData.html).
 
+**If you want to react to an action, it is best to do so in reducer. If you want to calculate some state that depends on the store state, it is best to do this in a selector.**
+
 ### FAQ
 
 **[Why is my component re-rendering too often?](http://redux.js.org/docs/faq/ReactRedux.html#why-is-my-component-re-rendering-too-often)**
-
-
 
 ## Links
 
