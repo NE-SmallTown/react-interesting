@@ -90,6 +90,8 @@ If this is helpful for you,you can watch this repository and I will update const
 
 ## 27. [About bindActionCreators' different used ways](https://gist.github.com/larrydahooster/ab254edf40e2ab735559)
 
+## 28. [Clarifying the goals of react-router-redux](https://github.com/reactjs/react-router-redux/issues/257)
+
 # Articles on medium
 
 ## 1. [Asking Good Questions](https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c)
@@ -242,9 +244,24 @@ There are too many contents,so I will group them.
 
 **2016-02-01 ~ 2016-02-10**
 
-## 1.[Misconception in connect()] (https://twitter.com/dan_abramov/status/695419602344411136)
+## 1. [Misconception in connect()] (https://twitter.com/dan_abramov/status/695419602344411136)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-17_11-34-21.jpg)
+
+## 2. [Use reducer composition solve nested] (https://twitter.com/dan_abramov/status/699233831199625216)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-18_12-13-32.jpg)
+
+## 3. [put console.group() calls strategically in its source code] (https://twitter.com/dan_abramov/status/699395627264962561)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-18_12-20-43.jpg)
+
+## 4. [About ReactCompositeComponent] (https://twitter.com/dan_abramov/status/699748892355751936)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-18_12-25-47.jpg)
+
+## 5. [When reducers depend on each other, either unify them, or use selectors.] (https://github.com/reactjs/react-redux/issues/291#issuecomment-185735973)
+
 
 # Questions on stackoverflow
 
