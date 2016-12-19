@@ -262,6 +262,15 @@ There are too many contents,so I will group them.
 
 ## 5. [When reducers depend on each other, either unify them, or use selectors.] (https://github.com/reactjs/react-redux/issues/291#issuecomment-185735973)
 
+## 6. [Nothing wrong with making mistakes by the way. It’s the only way to learn. Same for being a beginner: the only way to have an open mind.](https://twitter.com/dan_abramov/status/702649696683204608)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/CcBQK_jXEAQt_Gs.jpg)
+
+## 7. [React component lifecycle](https://twitter.com/dan_abramov/status/702853393765818368)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/CcENx2lXEAAmali.jpg)
+
+
 
 # Questions on stackoverflow
 
