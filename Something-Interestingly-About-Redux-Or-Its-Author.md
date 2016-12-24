@@ -242,7 +242,7 @@ There are too many contents,so I will group them.
 ![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-16_10-53-55.jpg)
 
 
-**2016-02-01 ~ 2016-02-10**
+**2016-02-01 ~ 2016-02-28**
 
 ## 1. [Misconception in connect()] (https://twitter.com/dan_abramov/status/695419602344411136)
 
@@ -270,7 +270,11 @@ There are too many contents,so I will group them.
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/CcENx2lXEAAmali.jpg)
 
+**2016-03-01 ~ 2016-03-31**
 
+## 1. [Think about the state shape](https://twitter.com/dan_abramov/status/715508013214343168)
+
+![]((http://www.blog.ne-smalltown.com/commonUpload/2016-12-24_10-48-29.jpg)
 
 # Questions on stackoverflow
 
@@ -285,6 +289,10 @@ There are too many contents,so I will group them.
 ## 5. [what-are-good-abstractions-for-complex-animations](http://stackoverflow.com/questions/10853211/what-are-good-abstractions-for-complex-animations)
 
 ## 6. [How to dispatch a Redux action with a timeout?](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559)
+
+# Something great not about react(I see them on dan's twitter)
+
+![2016 - the year of web streams](https://jakearchibald.com/2016/streams-ftw/)
 
 # Other good collections
 
