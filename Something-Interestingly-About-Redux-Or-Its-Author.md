@@ -274,7 +274,17 @@ There are too many contents,so I will group them.
 
 ## 1. [Think about the state shape](https://twitter.com/dan_abramov/status/715508013214343168)
 
-![]((http://www.blog.ne-smalltown.com/commonUpload/2016-12-24_10-48-29.jpg)
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-24_10-48-29.jpg)
+
+**2016-04-01 ~ 2016-04-31**
+
+## 1. [Nice attitude about community](https://twitter.com/dan_abramov/status/718208513948954624)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-25_11-53-58.jpg)
+
+## 2. [Don't require internal modules of react](https://twitter.com/dan_abramov/status/718472855785193472)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-25_11-59-36.jpg)
 
 # Questions on stackoverflow
 
