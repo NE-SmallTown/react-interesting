@@ -124,11 +124,11 @@ By contrast, here are a few related (but different!) technical distinctions:
 
 > react-redux提供了connect和Provider两个好基友，它们一个将组件与redux关联起来，一个将store传给组件。组件通过dispatch发出action，store根据action的type属性调用对应的reducer并传入state和这个action，reducer对state进行处理并返回一个新的state放入store，connect监听到store发生变化，调用setState更新组件，此时组件的props也就跟着变化
 
-**Redux Flow**
+### **Redux Flow**
 
 ![](http://ogitl0zvo.bkt.clouddn.com/2e3279b62b38f95ebcc3df9b4edf31cbed95eb9d.jpg)
 
-**React Redux Flow**
+### **React Redux Flow**
 
 ![](http://ogitl0zvo.bkt.clouddn.com/2016-12-03_22-12-59.jpg)
 
