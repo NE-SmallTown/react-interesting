@@ -286,13 +286,19 @@ There are too many contents,so I will group them.
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-25_11-59-36.jpg)
 
-## 3. [Benchmarked Immutables against Observables in TodoMVC](https://twitter.com/mweststrate/status/720177443521343488)
+## 3. [Collaborate with others is important](https://twitter.com/dan_abramov/status/719973034724102144)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-29_9-18-53.jpg)
+
+## 4. [Benchmarked Immutables against Observables in TodoMVC](https://twitter.com/mweststrate/status/720177443521343488)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-28_22-52-06.jpg)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/CfhtQs-WwAAzkkW.jpg)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/Cf6VkYYWcAAJ0oD.jpg)
+
+**2016-05-01 ~ 2016-05-31**
 
 # Questions on stackoverflow
 
