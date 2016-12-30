@@ -300,6 +300,12 @@ There are too many contents,so I will group them.
 
 **2016-05-01 ~ 2016-05-31**
 
+## 1. [About the use of react-router-redux](https://twitter.com/dan_abramov/status/727284386853453825)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2016-12-30_10-59-01.jpg)
+
+link: [Clarify the goal of this react-router-redux library](https://github.com/reactjs/react-router-redux/pull/387)
+
 # Questions on stackoverflow
 
 ## 1. [Why is React's filesize so big given its small API?](http://stackoverflow.com/questions/19807946/why-is-reacts-filesize-so-big-given-its-small-api/19808686#19808686)
