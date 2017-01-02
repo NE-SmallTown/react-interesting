@@ -306,6 +306,12 @@ There are too many contents,so I will group them.
 
 link: [Clarify the goal of this react-router-redux library](https://github.com/reactjs/react-router-redux/pull/387)
 
+## 2. [About folder structure](https://twitter.com/dan_abramov/status/731164231723274241)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-02_12-34-36.jpg)
+
+## 3. [Extract connect() function](https://gist.github.com/gaearon/1d19088790e70ac32ea636c025ba424e#file-connect-js)
+
 # Questions on stackoverflow
 
 ## 1. [Why is React's filesize so big given its small API?](http://stackoverflow.com/questions/19807946/why-is-reacts-filesize-so-big-given-its-small-api/19808686#19808686)
