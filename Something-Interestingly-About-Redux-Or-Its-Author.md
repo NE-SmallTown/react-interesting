@@ -312,6 +312,15 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ## 3. [Extract connect() function](https://gist.github.com/gaearon/1d19088790e70ac32ea636c025ba424e#file-connect-js)
 
+## 4. [Reject the “us vs them” mentality](https://twitter.com/dan_abramov/status/735841847445196800)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-07_14-12-37.jpg)
+
+## 5. [Misconception about setState and store](https://twitter.com/dan_abramov/status/737758755237027840)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-07_15-26-58.jpg)
+
+
 # Questions on stackoverflow
 
 ## 1. [Why is React's filesize so big given its small API?](http://stackoverflow.com/questions/19807946/why-is-reacts-filesize-so-big-given-its-small-api/19808686#19808686)
