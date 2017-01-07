@@ -1,5 +1,5 @@
 # What we do
-We are trying to collect anything interesting about eco-react and people who work with it.There are not only good blogs or insights about eco-react,but also some stories or opinions about life and work, etc.
+We are trying to collect anything interesting about react-eco and people who work with it.There are not only good blogs or insights about react-eco,but also some stories or opinions about life and work, etc.
 
 Hope this is helpful for you.
 
