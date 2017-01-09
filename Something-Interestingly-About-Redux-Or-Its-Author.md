@@ -320,6 +320,10 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-07_15-26-58.jpg)
 
+## 6. [About --save and --save--dev](https://twitter.com/dan_abramov/status/739188839802142720)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-09_22-49-54.jpg)
+
 
 # Questions on stackoverflow
 
