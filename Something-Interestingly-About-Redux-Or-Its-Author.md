@@ -324,6 +324,14 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-09_22-49-54.jpg)
 
+## 7. [About HOC](https://twitter.com/dan_abramov/status/739570402834448384)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-09_23-00-49.jpg)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-09_23-02-15.jpg)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-09_23-01-47.jpg)
+
 
 # Questions on stackoverflow
 
