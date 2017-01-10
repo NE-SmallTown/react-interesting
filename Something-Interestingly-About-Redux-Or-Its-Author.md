@@ -332,6 +332,8 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-09_23-01-47.jpg)
 
+## 8. [About OOP vs FP in redux](https://news.ycombinator.com/item?id=11834683)
+
 
 # Questions on stackoverflow
 
