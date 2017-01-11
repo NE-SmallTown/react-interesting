@@ -334,6 +334,14 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ## 8. [About OOP vs FP in redux](https://news.ycombinator.com/item?id=11834683)
 
+**2016-06-01 ~ 2016-06-31**
+
+## 1. [Why can't i put key in default props (or define the default somewhere else)?](https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_props_or_define_the/d3xwa6m/)
+
+## 1. [Don't mocke other groups based on tech or skill level](https://twitter.com/dan_abramov/status/739792999970942976)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-11_19-33-40.jpg)
+
 
 # Questions on stackoverflow
 
