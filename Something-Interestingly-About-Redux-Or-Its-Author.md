@@ -338,9 +338,15 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ## 1. [Why can't i put key in default props (or define the default somewhere else)?](https://www.reddit.com/r/reactjs/comments/4mjdcf/why_cant_i_put_key_in_default_props_or_define_the/d3xwa6m/)
 
-## 1. [Don't mocke other groups based on tech or skill level](https://twitter.com/dan_abramov/status/739792999970942976)
+## 2. [Don't mocke other groups based on tech or skill level](https://twitter.com/dan_abramov/status/739792999970942976)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-11_19-33-40.jpg)
+
+## 3. [About cache of redux](https://twitter.com/dan_abramov/status/741074134378151936)
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-13_22-42-16.jpg)
+
+## 4. [About AST](https://twitter.com/dan_abramov/status/741287140282208257)
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-13_22-46-05.jpg)
 
 
 # Questions on stackoverflow
