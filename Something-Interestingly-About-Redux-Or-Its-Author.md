@@ -343,10 +343,17 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-11_19-33-40.jpg)
 
 ## 3. [About cache of redux](https://twitter.com/dan_abramov/status/741074134378151936)
+
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-13_22-42-16.jpg)
 
 ## 4. [About AST](https://twitter.com/dan_abramov/status/741287140282208257)
+
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-13_22-46-05.jpg)
+
+## 5. [Should I keep something in React component state?](https://twitter.com/dan_abramov/status/749710501916139520)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-14_22-51-20.jpg)
+
 
 
 # Questions on stackoverflow
