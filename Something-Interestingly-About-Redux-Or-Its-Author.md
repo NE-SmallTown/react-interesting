@@ -354,6 +354,16 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-14_22-51-20.jpg)
 
+## 6. [Performance wins in JavaScript due to deoptimizations](https://twitter.com/dan_abramov/status/751836796552613889)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-15_23-41-25.jpg)
+
+[the link](https://github.com/facebook/react/issues/7227)
+
+## 6. [About read src code](https://twitter.com/dan_abramov/status/751837604954382336)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-15_23-44-01.jpg)
+
 
 
 # Questions on stackoverflow
