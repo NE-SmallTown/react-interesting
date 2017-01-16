@@ -360,9 +360,17 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 [the link](https://github.com/facebook/react/issues/7227)
 
-## 6. [About read src code](https://twitter.com/dan_abramov/status/751837604954382336)
+## 7. [About read src code](https://twitter.com/dan_abramov/status/751837604954382336)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-15_23-44-01.jpg)
+
+## 8. [About understand React deeply](https://twitter.com/dan_abramov/status/752131777309843460)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-16_23-09-45.jpg)
+
+## 9. [About graph visualization](https://twitter.com/dan_abramov/status/752849044024745984)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-16_23-25-47.jpg)
 
 
 
