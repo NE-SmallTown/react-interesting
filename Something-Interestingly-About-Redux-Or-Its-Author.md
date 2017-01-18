@@ -360,22 +360,27 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 [the link](https://github.com/facebook/react/issues/7227)
 
-## 7. [About read src code](https://twitter.com/dan_abramov/status/751837604954382336)
+**2016-07-01 ~ 2016-07-31**
+
+## 1. [About read src code](https://twitter.com/dan_abramov/status/751837604954382336)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-15_23-44-01.jpg)
 
-## 8. [About understand React deeply](https://twitter.com/dan_abramov/status/752131777309843460)
+## 2. [About understand React deeply](https://twitter.com/dan_abramov/status/752131777309843460)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-16_23-09-45.jpg)
 
-## 9. [About graph visualization](https://twitter.com/dan_abramov/status/752849044024745984)
+## 3. [About graph visualization](https://twitter.com/dan_abramov/status/752849044024745984)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-16_23-25-47.jpg)
 
-## 10. [About react in fb](https://twitter.com/dan_abramov/status/753893839241416704)
+## 4. [About react in fb](https://twitter.com/dan_abramov/status/753893839241416704)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-17_23-33-49.jpg)
 
+## 5. [About HOC test](https://twitter.com/dan_abramov/status/754368075030487041)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-18_23-29-58.jpg)
 
 
 # Questions on stackoverflow
