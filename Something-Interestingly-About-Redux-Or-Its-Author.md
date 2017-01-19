@@ -382,6 +382,12 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-18_23-29-58.jpg)
 
+## 6. [About code style](https://twitter.com/dan_abramov/status/755150814952452097)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-19_23-31-40.jpg)
+
+## 7. [About react license](https://github.com/facebook/react/issues/7293#issuecomment-233302318)
+
 
 # Questions on stackoverflow
 
