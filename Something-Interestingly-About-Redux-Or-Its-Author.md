@@ -388,6 +388,10 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ## 7. [About react license](https://github.com/facebook/react/issues/7293#issuecomment-233302318)
 
+## 8. [Event sourcing pattern in redux](https://twitter.com/dan_abramov/status/757255009486643200)
+
+#[](http://www.blog.ne-smalltown.com/commonUpload/2017-01-21_23-35-16.jpg)
+
 
 # Questions on stackoverflow
 
