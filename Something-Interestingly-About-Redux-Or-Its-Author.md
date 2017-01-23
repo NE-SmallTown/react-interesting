@@ -390,7 +390,23 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ## 8. [Event sourcing pattern in redux](https://twitter.com/dan_abramov/status/757255009486643200)
 
-#[](http://www.blog.ne-smalltown.com/commonUpload/2017-01-21_23-35-16.jpg)
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-21_23-35-16.jpg)
+
+## 9. [About relative paths in create-react-app](https://twitter.com/dan_abramov/status/759105075470008320)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-23_23-42-53.jpg)
+
+## 10. [About "PureComponent" name](https://twitter.com/dan_abramov/status/759385769547038720)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-23_23-47-04.jpg)
+
+## 11. [About slove issues](https://twitter.com/dan_abramov/status/759837460410998784)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-23_23-49-28.jpg)
+
+## 12. [About attribute on your div tag, and cause "unknown prop" warnings](https://twitter.com/dan_abramov/status/759896288758411264)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-23_23-53-04.jpg)
 
 
 # Questions on stackoverflow
