@@ -408,6 +408,12 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-23_23-53-04.jpg)
 
+**2016-08-01 ~ 2016-08-31**
+
+## 1. [About passing down the props](https://twitter.com/dan_abramov/status/760069099594670080)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-24_23-11-55.jpg)
+
 
 # Questions on stackoverflow
 
