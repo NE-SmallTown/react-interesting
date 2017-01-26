@@ -422,6 +422,15 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-25_23-25-03.jpg)
 
+## 4. [Hesitant to share an article](https://twitter.com/dan_abramov/status/760892240000606212)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-26_23-12-54.jpg)
+
+## 5. [About react-dev-tools and "time travel"](https://twitter.com/dan_abramov/status/761550091022917632)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-26_23-24-49.jpg)
+
+
 
 # Questions on stackoverflow
 
