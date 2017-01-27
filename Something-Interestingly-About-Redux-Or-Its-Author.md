@@ -430,6 +430,14 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-26_23-24-49.jpg)
 
+## 6. [Misconception: you need decorator syntax for HOCs](https://twitter.com/dan_abramov/status/763460897499152384)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-27_23-45-40.jpg)
+
+## 7. [About decorators](https://twitter.com/dan_abramov/status/763501673109127168)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-27_23-49-56.jpg)
+
 
 
 # Questions on stackoverflow
