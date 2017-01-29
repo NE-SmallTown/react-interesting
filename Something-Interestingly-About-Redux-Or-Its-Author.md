@@ -438,6 +438,13 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-27_23-49-56.jpg)
 
+## 8. [About .jsx file](https://twitter.com/dan_abramov/status/763716045425238016)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-29_23-29-14.jpg)
+
+## 9. [About JS library benchmarks](https://twitter.com/dan_abramov/status/764916160328507392)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-29_23-33-25.jpg)
 
 
 # Questions on stackoverflow
