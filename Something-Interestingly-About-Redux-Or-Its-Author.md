@@ -446,6 +446,14 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-29_23-33-25.jpg)
 
+## 11. [The idea of First-class UI](https://twitter.com/dan_abramov/status/765491669332525056)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-30_23-02-34.jpg)
+
+## 12. [Terrible experience about ReactConf live stream](https://twitter.com/dan_abramov/status/767023427739852801)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-30_23-13-08.jpg)
+
 
 # Questions on stackoverflow
 
