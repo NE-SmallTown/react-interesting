@@ -458,6 +458,15 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-01-31_23-06-53.jpg)
 
+## 14. [About redux's purpose](https://twitter.com/dan_abramov/status/769325010691428353)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-02_23-30-47.jpg)
+
+
+## 15. [About jQuery in react](https://twitter.com/dan_abramov/status/770260353380909056)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-02_23-34-48.jpg)
+
 
 # Questions on stackoverflow
 
