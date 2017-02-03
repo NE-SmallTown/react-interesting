@@ -462,10 +462,17 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-02_23-30-47.jpg)
 
-
 ## 15. [About jQuery in react](https://twitter.com/dan_abramov/status/770260353380909056)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-02_23-34-48.jpg)
+
+## 16. [The component idea of react](https://twitter.com/dan_abramov/status/770642934777671680)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-03_23-38-32.jpg)
+
+## 17. [Differenct between .catch() and 2th arg of .then() of dispatch](https://twitter.com/dan_abramov/status/770914221638942720)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-03_23-50-11.jpg)
 
 
 # Questions on stackoverflow
