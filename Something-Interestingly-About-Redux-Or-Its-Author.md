@@ -474,6 +474,12 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-03_23-50-11.jpg)
 
+**2016-09-01 ~ 2016-09-31**
+
+## 1. [About the concepts of elements and components](https://twitter.com/dan_abramov/status/771145320310927360)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-04_23-27-59.jpg)
+
 
 # Questions on stackoverflow
 
