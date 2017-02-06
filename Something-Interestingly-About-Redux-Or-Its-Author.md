@@ -480,6 +480,11 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-04_23-27-59.jpg)
 
+## 2. [About OOP](https://twitter.com/dan_abramov/status/774748625020878849)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-06_23-49-07.jpg)
+
+
 
 # Questions on stackoverflow
 
