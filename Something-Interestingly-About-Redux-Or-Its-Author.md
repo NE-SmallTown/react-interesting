@@ -484,6 +484,10 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-06_23-49-07.jpg)
 
+## 3. [About production of react in webpack](https://twitter.com/dan_abramov/status/775647965197336576)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-07_23-00-43.jpg)
+
 
 
 # Questions on stackoverflow
