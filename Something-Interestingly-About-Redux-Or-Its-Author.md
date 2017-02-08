@@ -488,6 +488,10 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-07_23-00-43.jpg)
 
+## 4. [About delays prop changes](https://twitter.com/dan_abramov/status/775778332738719744)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-08_23-40-48.jpg)
+
 
 
 # Questions on stackoverflow
