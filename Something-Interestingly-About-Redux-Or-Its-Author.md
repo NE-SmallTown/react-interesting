@@ -492,6 +492,14 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-08_23-40-48.jpg)
 
+## 5. [React doesn’t swallow your errors](https://twitter.com/dan_abramov/status/776891811222675457)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-09_23-19-50.jpg)
+
+## 6. [About hoc](https://twitter.com/dan_abramov/status/777075512111923200)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-09_23-28-59.jpg)
+
 
 
 # Questions on stackoverflow
