@@ -500,6 +500,10 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-09_23-28-59.jpg)
 
+## 7. [Using transactional form of setState](https://twitter.com/dan_abramov/status/778264876980502528)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-10_23-30-44.jpg)
+
 
 
 # Questions on stackoverflow
