@@ -504,6 +504,10 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-10_23-30-44.jpg)
 
+## 8. [About sCU and Context of react-redux](https://twitter.com/dan_abramov/status/779335426377183232)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-11_23-47-27.jpg)
+
 
 
 # Questions on stackoverflow
