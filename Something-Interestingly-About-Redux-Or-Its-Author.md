@@ -516,6 +516,22 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-14_22-58-43.jpg)
 
+## 11. [About 'inline-styles'](https://twitter.com/dan_abramov/status/780470395132608512)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-15_19-52-17.jpg)
+
+## 12. [About no CS education](https://twitter.com/dan_abramov/status/782174688546004992)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-15_20-27-33.jpg)
+
+## 13. [About HOC and global component such as `<ScreenSizeWatcher>`](https://twitter.com/dan_abramov/status/782239400503742465)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-15_20-41-21.jpg)
+
+## 14. [About attitude on tools](https://twitter.com/dan_abramov/status/783088654298279936)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-15_20-49-14.jpg)
+
 
 # Questions on stackoverflow
 
