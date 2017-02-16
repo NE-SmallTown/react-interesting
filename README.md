@@ -6,7 +6,7 @@ Hope this is helpful for you.
 # Table of Contents
 - [Something-Interestingly-About-Redux-Or-Its-Author](https://github.com/NE-SmallTown/react-heaven/blob/master/Something-Interestingly-About-Redux-Or-Its-Author.md)
 
-- [Study-React](https://github.com/NE-SmallTown/react-heaven#Study-React)
+- [Study-React](#Study-React)
 
 - [Record something about react itself](https://github.com/NE-SmallTown/react-heaven/blob/master/record.md)
 
