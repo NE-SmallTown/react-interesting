@@ -532,6 +532,10 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-15_20-49-14.jpg)
 
+## 15. [About ES6/ES2017 and experimental proposal](https://twitter.com/dan_abramov/status/785082176610115584)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-16_23-13-30.jpg)
+
 
 # Questions on stackoverflow
 
