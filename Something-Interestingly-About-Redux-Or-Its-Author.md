@@ -520,21 +520,27 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-15_19-52-17.jpg)
 
-## 12. [About no CS education](https://twitter.com/dan_abramov/status/782174688546004992)
+**2016-10-01 ~ 2016-10-31**
+
+## 1. [About no CS education](https://twitter.com/dan_abramov/status/782174688546004992)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-15_20-27-33.jpg)
 
-## 13. [About HOC and global component such as `<ScreenSizeWatcher>`](https://twitter.com/dan_abramov/status/782239400503742465)
+## 2. [About HOC and global component such as `<ScreenSizeWatcher>`](https://twitter.com/dan_abramov/status/782239400503742465)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-15_20-41-21.jpg)
 
-## 14. [About attitude on tools](https://twitter.com/dan_abramov/status/783088654298279936)
+## 3. [About attitude on tools](https://twitter.com/dan_abramov/status/783088654298279936)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-15_20-49-14.jpg)
 
-## 15. [About ES6/ES2017 and experimental proposal](https://twitter.com/dan_abramov/status/785082176610115584)
+## 4. [About ES6/ES2017 and experimental proposal](https://twitter.com/dan_abramov/status/785082176610115584)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-16_23-13-30.jpg)
+
+## 5. [Don't be cynical and love the js ecosystem](https://twitter.com/dan_abramov/status/786176401300873216)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-19_10-53-11.jpg)
 
 
 # Questions on stackoverflow
