@@ -542,6 +542,16 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-19_10-53-11.jpg)
 
+## 6. [About react fiber](https://www.youtube.com/watch?v=aV1271hd9ew)
+
+## 7. [About react fiber](https://twitter.com/dan_abramov/status/787741814770036737)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-20_21-52-36.jpg)
+
+## 8. [About react fiber](https://twitter.com/dan_abramov/status/789196526534918144)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-20_22-02-36.jpg)
+
 
 # Questions on stackoverflow
 
