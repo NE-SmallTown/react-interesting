@@ -552,6 +552,14 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-20_22-02-36.jpg)
 
+## 9. [About ES6 VS ES2015](https://twitter.com/dan_abramov/status/789468478604443648)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-21_12-39-33.jpg)
+
+## 10. [About vDom and MVC](https://twitter.com/dan_abramov/status/790326092582252544)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-21_12-46-23.jpg)
+
 
 # Questions on stackoverflow
 
