@@ -560,6 +560,18 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-21_12-46-23.jpg)
 
+## 11. [Graphical Cheat Sheet about redux](https://github.com/reactjs/redux/issues/2254)
+
+## 12. [Graphical Cheat Sheet about redux](https://github.com/reactjs/redux/issues/653)
+
+## 13. [Webpack Performance Budgets](https://twitter.com/addyosmani/status/793126424253075456)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-22_12-48-51.jpg)
+
+## 14. [Thinking of writing modules](https://twitter.com/dan_abramov/status/793124347573665796)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-22_12-51-54.jpg)
+
 
 # Questions on stackoverflow
 
@@ -575,7 +587,7 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ## 6. [How to dispatch a Redux action with a timeout?](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559)
 
-# Something great not about react(I see them on dan's twitter)
+# Something great not about react(from twitter or anywhere)
 
 ![2016 - the year of web streams](https://jakearchibald.com/2016/streams-ftw/)
 
