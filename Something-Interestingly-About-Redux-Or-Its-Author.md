@@ -573,6 +573,13 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-22_12-51-54.jpg)
 
 
+**2016-11-01 ~ 2016-11-31**
+
+## 1. [Don't be attractor](https://twitter.com/dan_abramov/status/798190820117467137)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-23_14-53-34.jpg)
+
+
 # Questions on stackoverflow
 
 ## 1. [Why is React's filesize so big given its small API?](http://stackoverflow.com/questions/19807946/why-is-reacts-filesize-so-big-given-its-small-api/19808686#19808686)
