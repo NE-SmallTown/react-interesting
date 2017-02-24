@@ -579,6 +579,19 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-23_14-53-34.jpg)
 
+## 2. [Don't blame react,improve your basic knowledge](https://twitter.com/dan_abramov/status/798838433368064000)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-24_12-17-27.jpg)
+
+## 3. [Don't be superstitious of benchmark](https://twitter.com/dan_abramov/status/799567099328872449)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-24_12-23-18.jpg)
+
+## 4. [About redux-thunk](https://twitter.com/dan_abramov/status/800310164792414208)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-24_12-35-18.jpg)
+
+
 
 # Questions on stackoverflow
 
