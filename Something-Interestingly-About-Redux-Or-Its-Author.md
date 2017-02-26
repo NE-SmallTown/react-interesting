@@ -599,6 +599,10 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-25_15-32-45.jpg)
 
+## 7. [Don't make the post "the Presentational vs Container components" as a rule](https://twitter.com/dan_abramov/status/802569801906475008)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-26_12-16-12.jpg)
+
 
 
 # Questions on stackoverflow
