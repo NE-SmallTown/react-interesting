@@ -603,6 +603,14 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-26_12-16-12.jpg)
 
+## 8. [Respect the volunteers of open project and donate when we have the ability](https://twitter.com/dan_abramov/status/804114218358337538)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-27_12-42-26.jpg)
+
+## 9. [About react fiber reconcilers](https://twitter.com/dan_abramov/status/805072018769055744)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-27_12-49-36.jpg)
+
 
 
 # Questions on stackoverflow
