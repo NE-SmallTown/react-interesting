@@ -607,10 +607,19 @@ link: [Clarify the goal of this react-router-redux library](https://github.com/r
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-27_12-42-26.jpg)
 
-## 9. [About react fiber reconcilers](https://twitter.com/dan_abramov/status/805072018769055744)
+**2016-12-01 ~ 2016-12-31**
+
+## 1. [About react fiber reconcilers](https://twitter.com/dan_abramov/status/805072018769055744)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-27_12-49-36.jpg)
 
+## 2. [Video about comparing today’s React engine to Fiber](https://twitter.com/dan_abramov/status/808617696329924608)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-02-28_12-28-08.jpg)
+
+notes:
+
+![](http://www.blog.ne-smalltown.com/commonUpload/CzjNfUFXAAAf-SJ.jpg)
 
 
 # Questions on stackoverflow
