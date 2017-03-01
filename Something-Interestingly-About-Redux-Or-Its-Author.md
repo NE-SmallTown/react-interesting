@@ -621,6 +621,10 @@ notes:
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/CzjNfUFXAAAf-SJ.jpg)
 
+## 3. [The feeling about react fiber](https://twitter.com/dan_abramov/status/811021614980694016)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-01_13-30-17.jpg)
+
 
 # Questions on stackoverflow
 
