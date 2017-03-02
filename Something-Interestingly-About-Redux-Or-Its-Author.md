@@ -625,6 +625,10 @@ notes:
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-01_13-30-17.jpg)
 
+## 4. [About rollup and webpack](https://twitter.com/dan_abramov/status/815198401017028609)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-02_12-34-20.jpg)
+
 
 # Questions on stackoverflow
 
