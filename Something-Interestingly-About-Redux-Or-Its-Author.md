@@ -629,6 +629,25 @@ notes:
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-02_12-34-20.jpg)
 
+**2017-01-01 ~ 2017-01-31**
+
+## 1. [About refactoring of legacy code](https://twitter.com/dan_abramov/status/819285024260374532)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-03_12-18-06.jpg)
+
+## 2. [About react fiber diff](https://twitter.com/dan_abramov/status/819296601244057605)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-03_12-20-47.jpg)
+
+## 3. [About benchmark](https://twitter.com/dan_abramov/status/820030136934400000)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-03_12-25-47.jpg)
+
+## 4. [About how to use PureComponent correctly](https://twitter.com/dan_abramov/status/820668074223353858)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-03_12-33-54.jpg)
+
+
 
 # Questions on stackoverflow
 
