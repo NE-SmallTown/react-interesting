@@ -647,6 +647,14 @@ notes:
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-03_12-33-54.jpg)
 
+## 5. [About setState](https://twitter.com/dan_abramov/status/824311250557534220)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-05_12-27-00.jpg)
+
+## 6. [About react fiber](https://twitter.com/dan_abramov/status/824344159817527297)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-05_12-31-20.jpg)
+
 
 
 # Questions on stackoverflow
