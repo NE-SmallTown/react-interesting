@@ -655,7 +655,9 @@ notes:
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-05_12-31-20.jpg)
 
+## 7. [why callback refs are better than string refs: wrapper components can intercept them](https://github.com/facebook/react/issues/8873#issuecomment-275423780)
 
+**2017-02-01 ~ 2017-02-28**
 
 # Questions on stackoverflow
 
