@@ -659,6 +659,15 @@ notes:
 
 **2017-02-01 ~ 2017-02-28**
 
+## 1. [About app size](https://twitter.com/dan_abramov/status/830437279818776577)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-07_12-35-16.jpg)
+
+## 2. [About chrome and firefox](https://twitter.com/dan_abramov/status/831893503030460416)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-07_12-39-31.jpg)
+
+
 # Questions on stackoverflow
 
 ## 1. [Why is React's filesize so big given its small API?](http://stackoverflow.com/questions/19807946/why-is-reacts-filesize-so-big-given-its-small-api/19808686#19808686)
