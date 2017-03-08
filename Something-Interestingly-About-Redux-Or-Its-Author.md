@@ -667,6 +667,10 @@ notes:
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-07_12-39-31.jpg)
 
+## 3. [About code hack](https://twitter.com/dan_abramov/status/832206687633342464)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-08_19-48-49.jpg)
+
 
 # Questions on stackoverflow
 
