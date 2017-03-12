@@ -681,6 +681,10 @@ notes:
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-09_12-46-37.jpg)
 
+## 3. [About Fiber timeline integration](https://twitter.com/dan_abramov/status/839313814113959938)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-12_12-26-30.jpg)
+
 
 # Questions on stackoverflow
 
