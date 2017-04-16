@@ -685,6 +685,12 @@ notes:
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-03-12_12-26-30.jpg)
 
+**2017-04-01 ~ 2017-04-31**
+
+## 1. [Q&A from @acdlite was about react-fiber](https://twitter.com/dan_abramov/status/852505559819538432)
+
+![](http://www.blog.ne-smalltown.com/commonUpload/2017-04-16_16-25-42.jpg)
+
 
 # Questions on stackoverflow
 
