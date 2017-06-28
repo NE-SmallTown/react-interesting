@@ -687,7 +687,7 @@ notes:
 
 **2017-04-01 ~ 2017-04-31**
 
-## 1. [Q&A from @acdlite was about react-fiber](https://twitter.com/dan_abramov/status/852505559819538432)
+## 1. [Q&A from @acdlite about react-fiber](https://twitter.com/dan_abramov/status/852505559819538432)
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-04-16_16-25-42.jpg)
 
@@ -705,6 +705,10 @@ notes:
 ## 5. [what-are-good-abstractions-for-complex-animations](http://stackoverflow.com/questions/10853211/what-are-good-abstractions-for-complex-animations)
 
 ## 6. [How to dispatch a Redux action with a timeout?](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559)
+
+## 7. [What exactly is Hot Module Replacement in Webpack?
+
+](https://stackoverflow.com/questions/24581873/what-exactly-is-hot-module-replacement-in-webpack)
 
 # Something great not about react(from twitter or anywhere)
 
