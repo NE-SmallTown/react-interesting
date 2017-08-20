@@ -691,6 +691,12 @@ notes:
 
 ![](http://www.blog.ne-smalltown.com/commonUpload/2017-04-16_16-25-42.jpg)
 
+**2017-05-01 ~ 2017-05-31**
+
+## 1. [Facebook has 30,000 react components. How do you manage large project directories with many components?](https://www.reddit.com/r/reactjs/comments/6al7h2/facebook_has_30000_react_components_how_do_you/dhgruqh/)
+
+**2017-07-01 ~ 2017-07-31**
+
 
 # Questions on stackoverflow
 
